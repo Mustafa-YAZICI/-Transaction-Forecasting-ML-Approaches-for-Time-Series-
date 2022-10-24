@@ -1,5 +1,5 @@
 # -Transaction-Forecasting-ML-Approaches-for-Time-Series-
-Transaction Forecasting - Time Series - LGBM 
+Transaction Forecasting - Time Series - LGBM - Iyzico
 
 ## Expected Transaction Volume Estimation of Merchants
     
